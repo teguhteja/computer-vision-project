@@ -1,4 +1,5 @@
-# computer-vision-project
+# Computer Vision Project
+computer-vision-project
 
 This repository contains multiple projects related to computer vision, including OCR (Optical Character Recognition) and PDF OCR.
 
@@ -59,7 +60,7 @@ python pdf-ocr/ocr-caption.py
 
 This table contains a summary of the [NeuralNine](https://www.youtube.com/@NeuralNine) YouTube videos related to OCR and [Computer Vision](https://www.youtube.com/playlist?list=PL7yh-TELLS1FDEQmmfzwSKOqFMEPLtz6_ ) projects. Each video will have corresponding source code created.  
 
-| No. | Video Title                                                        | YouTube Link                                                                                            | Release Date (DD/MM/YYYY) | URL |
+| No. | Video Title                                                        | YouTube Link                                                                                            | Release Date | URL |
 |-----|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------|-----|
 | 1   | Simple OCR in Python with easyocr                                   | [Link](https://www.youtube.com/watch?v=GboDfGzkRsQ&t=331s)                                               | 15/10/2024               |     |
 | 2   | Extract Text From Images in Python (OCR)                            | [Link](https://www.youtube.com/watch?v=PY_N1XdFp4w&t=839s)                                               | 16/10/2024               |     |
