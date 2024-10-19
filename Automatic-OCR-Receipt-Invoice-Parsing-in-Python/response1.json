@@ -1,0 +1,142 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_114.10.157.24_m2g7xvzv_18q",
+  "ref_no": "oct_python_123",
+  "file_name": "template-walmart-1-1.png",
+  "request_received_on": 1729345972027,
+  "success": true,
+  "image_width": 325,
+  "image_height": 872,
+  "image_rotation": 0,
+  "recognition_completed_on": 1729345972278,
+  "receipts": [
+    {
+      "merchant_name": "Save money. Live better. 916) 968-2258",
+      "merchant_address": "3451 TRUXEL RD",
+      "merchant_phone": "+1 916-968-2258",
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "US",
+      "state": "CA",
+      "city": "SACRAMENTO",
+      "zip": "23456",
+      "receipt_no": "03111",
+      "date": "2022-10-20",
+      "time": "09:01",
+      "items": [
+        {
+          "amount": 69.0,
+          "category": null,
+          "description": "HP ENVY 4512 012345678976",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        }
+      ],
+      "currency": "USD",
+      "total": 74.05,
+      "subtotal": 69.0,
+      "tax": 5.05,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": null,
+      "payment_details": null,
+      "credit_card_type": "DEBIT",
+      "credit_card_number": "8867",
+      "ocr_text": " See back of receipt for your chance\n to win $1000\n ID #: 7ZXXZ523GBA\n   Walmart\n    Save money. Live better.\n          916) 968-2258\n         MANAGER RENE PUENTES\n             3451 TRUXEL RD\n         SACRAMENTO CA 23456\n ST# 01234 OP# 567890 TE# 23 TR# 03111\n PRODUCT SERIAL # TH66B3C1ZZ\n HP ENVY 4512 012345678976     69.00 X\n                  SUBTOTAL     69.00\n    TAX 1 8.000% 5.05\n          TOTAL 74.05\n       DEBIT TEND 74.05\n        CHANGE DUE 0.00\n EFT DEBIT  PAY FROM PRIMARY\n  74.05 TOTAL PURCHASE\n US DEBIT  **** **** **** 8867 IO\n REF#012345678900\n NETWORK ID. 0001 APPR CODE 678901\n US DEBIT\n AID A0000000123457\n TC AF8F12D95E891D4D\n *Pin Verified\n TERMINAL#SC012345\n     10/20/22 09:01:12\n #ITEMS SOLD 1\n    TC#4891 4435 7070 5637 2915\n Low Prices You Can Trust. Every Day.\n    10/20/22 09:09:01\n Store receipts on your phone. Walmart P\n ay.",
+      "ocr_confidence": 97.89,
+      "width": 287,
+      "height": 726,
+      "avg_char_width": 7.3674,
+      "avg_line_height": 11.6619,
+      "conf_amount": 74,
+      "source_locations": {
+        "date": [
+          [
+            { "x": 44, "y": 570 },
+            { "x": 189, "y": 570 },
+            { "x": 189, "y": 582 },
+            { "x": 44, "y": 582 }
+          ]
+        ],
+        "total": [
+          [
+            { "x": 87, "y": 341 },
+            { "x": 187, "y": 341 },
+            { "x": 187, "y": 354 },
+            { "x": 87, "y": 354 }
+          ]
+        ],
+        "receipt_no": [
+          [
+            { "x": 252, "y": 274 },
+            { "x": 290, "y": 274 },
+            { "x": 290, "y": 287 },
+            { "x": 252, "y": 287 }
+          ]
+        ],
+        "credit_card_number": [
+          [
+            { "x": 15, "y": 435 },
+            { "x": 75, "y": 435 },
+            { "x": 75, "y": 448 },
+            { "x": 15, "y": 448 }
+          ]
+        ],
+        "subtotal": [
+          [
+            { "x": 246, "y": 316 },
+            { "x": 286, "y": 316 },
+            { "x": 286, "y": 327 },
+            { "x": 246, "y": 327 }
+          ]
+        ],
+        "merchant_name": [
+          [
+            { "x": 88, "y": 221 },
+            { "x": 217, "y": 221 },
+            { "x": 217, "y": 234 },
+            { "x": 88, "y": 234 }
+          ]
+        ],
+        "doc": [
+          [
+            { "x": 1, "y": -4 },
+            { "x": 317, "y": -4 },
+            { "x": 317, "y": 794 },
+            { "x": 1, "y": 794 }
+          ]
+        ],
+        "tax": [
+          [
+            { "x": 41, "y": 328 },
+            { "x": 205, "y": 328 },
+            { "x": 205, "y": 341 },
+            { "x": 41, "y": 341 }
+          ]
+        ],
+        "merchant_phone": [
+          [
+            { "x": 81, "y": 220 },
+            { "x": 224, "y": 220 },
+            { "x": 224, "y": 235 },
+            { "x": 81, "y": 235 }
+          ]
+        ],
+        "merchant_address": [
+          [
+            { "x": 104, "y": 248 },
+            { "x": 218, "y": 248 },
+            { "x": 218, "y": 259 },
+            { "x": 104, "y": 259 }
+          ]
+        ]
+      }
+    }
+  ]
+}
