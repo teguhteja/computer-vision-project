@@ -1,0 +1,8 @@
+Before you begin
+Start coding
+Design the model
+Compile and train the model
+Test the model
+Exploration exercises
+Explore callbacks
+Congratulations

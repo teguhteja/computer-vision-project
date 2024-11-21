@@ -1,0 +1,9 @@
+Before you begin
+Improve computer vision accuracy with convolutions
+Try the code
+Gather the data
+Define the model
+Compile and train the model
+Visualize the convolutions and pooling
+Exercises
+Congratulations

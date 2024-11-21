@@ -1,0 +1,8 @@
+Before you begin
+What are convolutions?
+Start coding
+Create the convolution matrix
+Examine the results
+Understanding Pooling
+Write code for pooling
+Congratulations

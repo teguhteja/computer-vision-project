@@ -1,0 +1,11 @@
+Before you begin
+Getting Started: Acquire the data
+Use the ImageGenerator to label and prepare the data
+Explore the data
+Define the model
+Compile the model
+Train the model from generators
+Do the training
+Test the model
+Visualize intermediate representations
+Congratulations
