@@ -1,0 +1,9 @@
+Before you begin
+Train with a large dataset: Cats and dogs
+Get the data
+Prepare the data
+Define the model
+Train the model
+Explore the results
+Test your model
+Congratulations
